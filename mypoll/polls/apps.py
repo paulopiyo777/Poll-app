@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class SurveysConfig(AppConfig):
+class PollsConfig(AppConfig):
     name = 'surveys'
